@@ -25,3 +25,9 @@ ChatGPT Bot is a simple interactive application that utilizes the OpenAI GPT-3.5
 
    ```bash
    pip install openai customtkinter
+Get your OpenAI API key from OpenAI Platform.
+
+Run the application:
+```bash
+python chat.py
+
