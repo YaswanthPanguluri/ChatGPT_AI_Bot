@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master
+  pull_request:
+    branches:
+      - '*'
 
 jobs:
   build:
@@ -28,4 +31,3 @@ jobs:
       run: |
         source venv/bin/activate
         pytest
-
