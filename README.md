@@ -31,3 +31,19 @@ Run the application:
 ```bash
 python chat.py
 
+## Usage
+Launch the application.
+
+Enter your OpenAI API key in the provided entry field and click the "Update API Key" button.
+
+Type a message in the input field and click the "Speak To ChatGPT" button.
+
+The application will generate a response based on the input using the GPT-3.5 Turbo model.
+
+Clear the response or update your API key as needed.
+
+## Notes
+Ensure a stable internet connection to interact with the OpenAI API.
+
+If you don't have an OpenAI API key, you can obtain one here.
+
